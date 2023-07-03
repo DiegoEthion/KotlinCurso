@@ -6,7 +6,7 @@ fun main() {
 //    Operadores com Strings
 //      + -> Concatenar
     println("hello "+"world")
-    println("outra forma de concatenar é ${"usando essa notação " + `helloworld`}")
+    println("outra forma de concatenar é ${"usando essa notação " + helloworld}")
 
 //    Operadores Numericos
 //            + -> Soma
